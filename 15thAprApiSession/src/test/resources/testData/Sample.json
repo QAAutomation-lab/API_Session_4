@@ -1,0 +1,12 @@
+[
+	{
+		"City": "Pune",
+		"EmpID": 123,
+		"EmpName": "Advik"
+	},
+	{
+		"Role": "Developer",
+		"Company": "Google",
+		"Dept": "R&D"
+	}
+]
